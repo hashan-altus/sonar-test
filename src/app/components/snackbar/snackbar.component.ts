@@ -15,4 +15,8 @@ export class SnackbarComponent implements OnInit {
 
     ngOnInit() {
     }
+  
+  happyHen() {
+   // No happy hens 
+  }
 }
