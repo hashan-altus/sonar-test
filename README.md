@@ -11,7 +11,7 @@ You can use this repo with these backends examples:
 | NodeJS with ExpressJS 📦 | MongoDB with Mongoose | WIP |
 | Python 🐍 with Flask 🌶 | PostgreSQL | WIP |
 
-## Screenshots
+## Screenshot
 
 <p>
     <img src="/capturas/login.png" alt="screenshot" align="center">
